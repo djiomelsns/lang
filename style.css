@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(184, 255, 169);
+  text-align: center;
+  
+}
+button{
+  text-align: center;
+  background: none;
+  width: 200px;
+  padding: 10px 0;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 2px 2px black;
+}
+button:hover{
+  border: 2px solid black;
+  color: rgb(0, 56, 47);
+  cursor: pointer;
+}
+.navbar{
+  width: 100%;
+  float: left;
+  font-size: xx-large;
+  text-align: center;
+
+}
+.navbar img{
+  width: 60px;
+  height: 60px;
+  
+}
+div img{
+  width: 500px;
+  height: 300px;
+}
+.divmain{
+  
+   width: 800px;
+   background-color: #fff;
+   border: 2px solid black;
+   box-shadow: 5px 5px rgba(0, 0, 0, 0.13);
+   position: absolute;
+   right: 20%;
+  
+   
+}
+#img2{
+ margin-top: 250px;
+  
+}
